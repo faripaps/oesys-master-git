@@ -107,4 +107,4 @@ For technical support and documentation:
 - **Issue tracking**: Open a ticket via our repository tracker.
 
 ## License
-Provided 'AS IS' under standard usage terms.
+Provided 'MIT license' under standard usage terms.
